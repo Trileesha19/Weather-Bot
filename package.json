@@ -1,0 +1,9 @@
+{
+  "name": "weatherbot-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix flood-warning-dashboard run dev -- --host 0.0.0.0",
+    "build": "npm --prefix flood-warning-dashboard run build",
+    "preview": "npm --prefix flood-warning-dashboard run preview -- --host 0.0.0.0"
+  }
+}
